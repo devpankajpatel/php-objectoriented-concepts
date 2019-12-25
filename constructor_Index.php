@@ -1,11 +1,11 @@
 <?php
-    require("setname.php");
+    require("constructor.php");
 ?>
 <!DOCTYPE html>
 <html dir="ltr">
 <head>
 	<meta charset="UTF-8">
-	<title>SET NAME</title>
+	<title>Constructor</title>
 </head>
 <body>
 <?php
